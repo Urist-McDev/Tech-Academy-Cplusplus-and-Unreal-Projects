@@ -8,22 +8,35 @@ using namespace std;
 
 int main()
 {
-    const int num = 5;
+    int num = 5;
     char inital = 'B';
     float decimal = 4.5;
     bool isAwesome = true;
     string fName = "Ben";
     string lName = "Berry";
 
-    cout << "Hello World!\n";
-    cout << "On a new line.\n";
-    cout << num << endl;
-    cout << fName << " " << lName << endl << endl;
+    //cout << "Hello World!\n";
+    //cout << "On a new line.\n";
+    //cout << num << endl;
+    //cout << fName << " " << lName << endl << endl;
 
-    cout << "My first name is this long: " << fName.length() << endl;
-    cout << "The third letter in my name is: " << fName[2] << endl;
-    fName[0] = 'K';
-    cout << fName;
+    //cout << "My first name is this long: " << fName.length() << endl;
+    //cout << "The third letter in my name is: " << fName[2] << endl;
+    //fName[0] = 'K';
+    //cout << fName;
+
+    //cout << 5 + 5 << endl;
+    //cout << 5 - 5 << endl;
+    //cout << 5 * 5 << endl;
+    //cout << 5 / 2 << endl;
+    //cout << ++num << endl << endl;
+
+    //cout << (num > decimal) << endl;
+    //cout << (num == decimal) << endl;
+    //cout << (num != decimal) << endl;
+    //cout << (num <= decimal);
+
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
