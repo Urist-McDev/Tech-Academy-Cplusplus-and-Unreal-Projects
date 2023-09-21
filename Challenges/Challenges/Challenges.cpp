@@ -7,6 +7,10 @@
 
 using namespace std;
 
+void cake() {
+    cout << "We have a lot of cakes!";
+}
+
 int main()
 {
     int num = 5;
@@ -80,11 +84,15 @@ int main()
     //    cout << i << endl;
     //}
 
-    cout << cakes[0] << endl;
+    //cout << cakes[0] << endl;
 
-    for (int i = 0; i < 3; i++) {
-        cout << cakes[i] << endl;
-    }
+    //for (int i = 0; i < 3; i++) {
+    //    cout << cakes[i] << endl;
+    //}
+
+    /*cout << &num;*/
+
+    cake();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
