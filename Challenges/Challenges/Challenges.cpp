@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <string>
+#include <cmath>
 
 using namespace std;
 
@@ -14,29 +15,76 @@ int main()
     bool isAwesome = true;
     string fName = "Ben";
     string lName = "Berry";
+    int time = 0;
+    string cakes[3] = { "Vanilla", "Chocolate", "Red Velvet" };
 
-    //cout << "Hello World!\n";
-    //cout << "On a new line.\n";
-    //cout << num << endl;
-    //cout << fName << " " << lName << endl << endl;
+    string fullName = "John Doe";
 
-    //cout << "My first name is this long: " << fName.length() << endl;
-    //cout << "The third letter in my name is: " << fName[2] << endl;
-    //fName[0] = 'K';
-    //cout << fName;
+    /*cout << "Hello World!\n";
+    cout << "On a new line.\n";
+    cout << num << endl;
+    cout << fName << " " << lName << endl << endl;
 
-    //cout << 5 + 5 << endl;
-    //cout << 5 - 5 << endl;
-    //cout << 5 * 5 << endl;
-    //cout << 5 / 2 << endl;
-    //cout << ++num << endl << endl;
+    cout << "My first name is this long: " << fName.length() << endl;
+    cout << "The third letter in my name is: " << fName[2] << endl;
+    fName[0] = 'K';
+    cout << fName;
 
-    //cout << (num > decimal) << endl;
-    //cout << (num == decimal) << endl;
-    //cout << (num != decimal) << endl;
-    //cout << (num <= decimal);
+    cout << 5 + 5 << endl;
+    cout << 5 - 5 << endl;
+    cout << 5 * 5 << endl;
+    cout << 5 / 2 << endl;
+    cout << ++num << endl << endl;
 
+    cout << (num > decimal) << endl;
+    cout << (num == decimal) << endl;
+    cout << (num != decimal) << endl;
+    cout << (num <= decimal);*/ 
 
+    //cout << "Please enter your full name: ";
+    //getline(cin, fullName);
+    //cout << endl << "Your name is: " << fullName;
+
+    //cout << max(6, 41) << endl;
+    //cout << sqrt(32) << endl;
+    //cout << round(5.91) << endl;
+    //cout << pow(6, 41) << endl;
+    /*cout << "Please enter your current time: ";
+    cin >> time;
+
+    string result = (time < 18) ? "Good day." : "Good evening";
+
+    cout << result;*/
+
+    //if (time < 10) {
+    //    cout << "It is Morning";
+    //}
+    //else if (time < 20)
+    //{
+    //    cout << "It is Afternoon";
+    //}
+    //else 
+    //{
+    //    cout << "It is Evening";
+    //}
+
+    //do {
+    //    cout << time << endl;
+    //    time++;
+    //} while (time < 10);
+
+    //for (int i = 0; i < 10; i++) {
+    //    if (i == 5) {
+    //        break;
+    //    }
+    //    cout << i << endl;
+    //}
+
+    cout << cakes[0] << endl;
+
+    for (int i = 0; i < 3; i++) {
+        cout << cakes[i] << endl;
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
