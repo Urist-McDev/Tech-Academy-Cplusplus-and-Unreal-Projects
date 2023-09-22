@@ -7,7 +7,7 @@ class Shape
 public:
 	string color;
 	void getArea() {
-		cout << "The shape has an area alright";
+		
 	}
 };
 
