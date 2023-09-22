@@ -8,7 +8,11 @@
 using namespace std;
 
 void cake() {
-    cout << "We have a lot of cakes!";
+    cout << "We have a lot of cakes!" << endl;
+}
+
+int AddTo(int num) {
+    return num + 5;
 }
 
 int main()
@@ -93,6 +97,8 @@ int main()
     /*cout << &num;*/
 
     cake();
+
+    cout << AddTo(4);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
