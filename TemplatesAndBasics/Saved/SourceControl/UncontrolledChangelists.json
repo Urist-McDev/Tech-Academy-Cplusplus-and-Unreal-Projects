@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/starw/Documents/GitHub/Tech-Academy-Cplusplus-and-Unreal-Projects/TemplatesAndBasics/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/starw/Documents/GitHub/Tech-Academy-Cplusplus-and-Unreal-Projects/TemplatesAndBasics/Content/StarterContent/Blueprints/BP_FinishLine.uasset",
+				"C:/Users/starw/Documents/GitHub/Tech-Academy-Cplusplus-and-Unreal-Projects/TemplatesAndBasics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/74/L61J1FKAZ8GJWTXFNX69AC.uasset",
+				"C:/Users/starw/Documents/GitHub/Tech-Academy-Cplusplus-and-Unreal-Projects/TemplatesAndBasics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/WW/FO9B6T5LMMCOKJG4HCFNL1.uasset"
+			]
+		}
+	]
+}
