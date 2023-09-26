@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/starw/Documents/GitHub/Tech-Academy-Cplusplus-and-Unreal-Projects/UnrealLearningKit/Content/Hour_of_Code/Static_Meshes/SM_Platform_M.uasset",
+				"C:/Users/starw/Documents/GitHub/Tech-Academy-Cplusplus-and-Unreal-Projects/UnrealLearningKit/Content/Hour_of_Code/Sequences/S_movingPlatforms.uasset",
+				"C:/Users/starw/Documents/GitHub/Tech-Academy-Cplusplus-and-Unreal-Projects/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_key.uasset",
+				"C:/Users/starw/Documents/GitHub/Tech-Academy-Cplusplus-and-Unreal-Projects/UnrealLearningKit/Content/Hour_of_Code/Widgets/W_HUD.uasset",
+				"C:/Users/starw/Documents/GitHub/Tech-Academy-Cplusplus-and-Unreal-Projects/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_jumpBoost.uasset",
+				"C:/Users/starw/Documents/GitHub/Tech-Academy-Cplusplus-and-Unreal-Projects/UnrealLearningKit/Content/Hour_of_Code/Maps/Level_HOC_world.umap"
+			]
+		}
+	]
+}
